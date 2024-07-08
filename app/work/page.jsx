@@ -75,7 +75,7 @@ const work_project = [
     num: "02",
     category: "Frontend-developer",
     title: "CCA(Chennai Cyber Alert) web application",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam.",
+    desc: "Chennai Cyber Alert web Application, in this web app it will tracks the cyber crime rates and case reports and it will divided into 4 zones(North, South, East, West), so the higher authorites can view the reports of all zones crime reports through CCA web and mobile Application.",
     role: [
       {
         title: "Front-end",
@@ -165,7 +165,7 @@ const work_project = [
     num: "04",
     category: "Frontend-developer",
     title: "Tbooks web application",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam.",
+    desc: "The Tamilnadu Textbook and Educational Services Corporation Print and distribute the textbooks to the Student Community in the state and in the Union Territory Puducherry also. The Corporation print and distribute the following books.",
     role: [
       {
         title: "Front-end",
@@ -208,7 +208,7 @@ const work_project = [
     num: "05",
     category: "Frontend-developer",
     title: "Mother's Trust School website",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam.",
+    desc: "A website for Mother's Trust School where they can share their achievements and details",
     role: [
       {
         title: "Front-end",
@@ -257,7 +257,7 @@ const work_project = [
     num: "06",
     category: "UI design",
     title: "Monica Beauty store website",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam.",
+    desc: "A website for Monica Beauty Store where the customers can view and buy their products through online.",
     role: [
       {
         title: "Logo and Icon Design",
