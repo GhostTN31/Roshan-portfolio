@@ -316,7 +316,7 @@ const personal_project = [
     ],
     image: "/assets/project_weather.png",
     live: "https://ghosttn31.github.io/weatherApp/",
-    github: "https://github.com/GhostTN31/weatherApp",
+    github: "https://github.com/Roshan-427/weatherApp",
   },
   {
     num: "02",
@@ -336,7 +336,7 @@ const personal_project = [
     ],
     image: "/assets/project_run.png",
     live: "https://ghosttn31.github.io/Endless-run/",
-    github: "https://github.com/GhostTN31/Endless-run",
+    github: "https://github.com/Roshan-427/Endless-run",
   },
   {
     num: "03",
@@ -359,7 +359,7 @@ const personal_project = [
     ],
     image: "/assets/project_todo.png",
     live: "https://ghosttn31.github.io/Todo-list/",
-    github: "https://github.com/GhostTN31/Todo-list",
+    github: "https://github.com/Roshan-427/Todo-list",
   },
   {
     num: "04",
@@ -382,7 +382,7 @@ const personal_project = [
     ],
     image: "/assets/project_calc.png",
     live: "https://ghosttn31.github.io/simple-calculator/",
-    github: "https://github.com/GhostTN31/simple-calculator",
+    github: "https://github.com/Roshan-427/simple-calculator",
   },
 ];
 
